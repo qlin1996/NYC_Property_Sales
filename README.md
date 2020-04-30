@@ -6,6 +6,6 @@ In this report, I analyze New York City Department of Finance's NYC property sal
 *   What *boroughs* sold the most properties and at what price?
 *   What *neigbhorhoods* sold the most properties and at what price?
 *   What were hottest buildings? How much did each building class cost in each borough?
-*   How did the distribution of property size look per borough?
+*   How did the distribution of property size look in each borough?
 *   Were there more newer or older properties sold?
 *   What affects sale price? Is there a correlation between sale price and land sq ft, gross sq feet, or the year in which the property was built?
